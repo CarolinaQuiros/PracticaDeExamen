@@ -9,5 +9,5 @@
  * @author Scarlett
  */
 public class TeamCaroScar {
-    
+    private String nombre;
 }
